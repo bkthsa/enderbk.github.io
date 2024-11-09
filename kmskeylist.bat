@@ -1,4 +1,5 @@
 @echo off
+pause > NUL
 title EnderBK's Activator Console
 echo Microsoft Windows and Office KMS Keys
 echo Windows Server 2022 Datacenter
